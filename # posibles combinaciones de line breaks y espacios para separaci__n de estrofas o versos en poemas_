@@ -1,0 +1,12 @@
+# posibles combinaciones de line breaks y espacios para separación de estrofas o versos en poemas:
+
+## versos (sustituir por ¿<br><br>?)
+
+- "\n \n"
+- "\n\n"
+
+## estrofas (sustituir por ¿<br><br><br>?)
+
+- "\n \n \n"
+- "\n\n \n"
+- "\n\n\n"

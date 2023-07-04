@@ -1,0 +1,119 @@
+{{ book.Download }},{{ book.Download }}.html
+{{ book.Download }},{{ book.Download }}.html
+{{ book.Library }},{{ book.Library }}.html
+{{ img.Download }},{{ img.Download }}.html
+{{ img.Download }},{{ img.Download }}.html
+{{ img.Library }},{{ img.Library }}.html
+{{ book.Download }},{{ book.Download }}.html
+{{ book.Library }},{{ book.Library }}.html
+{{ link.Download }},{{ link.Download }}.html
+{{ link.Library }},{{ link.Library }}.html
+{% include book-list-url-page.html %},{% include book-list-url-page.html %}.html
+{% include book-list-url-page.html %},{% include book-list-url-page.html %}.html
+{% include book-list-url-page.html %},{% include book-list-url-page.html %}.html
+{{ book.Download }},{{ book.Download }}.html
+books,books.html
+{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:,{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:.html
+{{BASE_PATH}}/cities/{{ book.Place | slugify:,{{BASE_PATH}}/cities/{{ book.Place | slugify:.html
+{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:,{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:.html
+{{BASE_PATH}}/repositories/{{ book.Archive | slugify:,{{BASE_PATH}}/repositories/{{ book.Archive | slugify:.html
+{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:,{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:.html
+{{BASE_PATH}}/cities/{{ book.Place | slugify:,{{BASE_PATH}}/cities/{{ book.Place | slugify:.html
+{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:,{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:.html
+{{BASE_PATH}}/repositories/{{ book.Archive | slugify:,{{BASE_PATH}}/repositories/{{ book.Archive | slugify:.html
+{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:,{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:.html
+{{BASE_PATH}}/cities/{{ book.Place | slugify:,{{BASE_PATH}}/cities/{{ book.Place | slugify:.html
+{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:,{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:.html
+{{BASE_PATH}}/repositories/{{ book.Archive | slugify:,{{BASE_PATH}}/repositories/{{ book.Archive | slugify:.html
+{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:,{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:.html
+{{BASE_PATH}}/cities/{{ book.Place | slugify:,{{BASE_PATH}}/cities/{{ book.Place | slugify:.html
+{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:,{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:.html
+{{BASE_PATH}}/repositories/{{ book.Archive | slugify:,{{BASE_PATH}}/repositories/{{ book.Archive | slugify:.html
+https://www.addtoany.com/share,https://www.addtoany.com/share
+{{ BASE_PATH }}/chriteria/{{ chriteria.filename }},{{ BASE_PATH }}/chriteria/{{ chriteria.filename }}.html
+{{ BASE_PATH }}/chriteria/{{ chriteria.filename }},{{ BASE_PATH }}/chriteria/{{ chriteria.filename }}.html
+{% include book-list-url-page.html %},{% include book-list-url-page.html %}.html
+{% include book-list-url-page.html %},{% include book-list-url-page.html %}.html
+{{ book.Download }},{{ book.Download }}.html
+{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:,{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:.html
+{{BASE_PATH}}/cities/{{ book.Place | slugify:,{{BASE_PATH}}/cities/{{ book.Place | slugify:.html
+{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:,{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:.html
+{{BASE_PATH}}/repositories/{{ book.Archive | slugify:,{{BASE_PATH}}/repositories/{{ book.Archive | slugify:.html
+{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:,{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:.html
+{{BASE_PATH}}/cities/{{ book.Place | slugify:,{{BASE_PATH}}/cities/{{ book.Place | slugify:.html
+{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:,{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:.html
+{{BASE_PATH}}/repositories/{{ book.Archive | slugify:,{{BASE_PATH}}/repositories/{{ book.Archive | slugify:.html
+{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:,{{BASE_PATH}}/authors/{{ author_firstlast[0] | slugify:.html
+{{BASE_PATH}}/cities/{{ book.Place | slugify:,{{BASE_PATH}}/cities/{{ book.Place | slugify:.html
+{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:,{{BASE_PATH}}/publishers/{{ book.Publisher | slugify:.html
+{{BASE_PATH}}/repositories/{{ book.Archive | slugify:,{{BASE_PATH}}/repositories/{{ book.Archive | slugify:.html
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+/index.html,/index.html
+/search,/search.html
+/agregar,/agregar.html
+/about,/about.html
+{{ BASE_PATH }}/about,{{ BASE_PATH }}/about.html
+downloads,downloads.html
+https://lib.morel.la,https://lib.morel.la
+{{ book.url | relative_url }},{{ book.url | relative_url }}.html
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+books,books.html
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+{{ BASE_PATH }}/index.html,{{ BASE_PATH }}/index.html
+/search,/search.html
+/add,/add.html
+/about,/about.html
+/podcast,/podcast.html
+{{ site.baseurl }}{{ author.url }},{{ site.baseurl }}{{ author.url }}.html
+{% include book-list-url-page.html %},{% include book-list-url-page.html %}.html
+{{ site.baseurl }}{{ city.url }},{{ site.baseurl }}{{ city.url }}.html
+{% include book-list-url-page.html %},{% include book-list-url-page.html %}.html
+{{ BASE_PATH }}{{ publisher.url }},{{ BASE_PATH }}{{ publisher.url }}.html
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+{{ BASE_PATH }}{{ repository.url }},{{ BASE_PATH }}{{ repository.url }}.html
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+/index.html,/index.html
+/search,/search.html
+/agregar,/agregar.html
+/about,/about.html
+/criteria/author,/criteria/author.html
+/criteria/city,/criteria/city.html
+/criteria/publisher,/criteria/publisher.html
+/criteria/nationality,/criteria/nationality.html
+/criteria/edition,/criteria/edition.html
+/criteria/repository,/criteria/repository.html
+/search,/search.html
+/add,/add.html
+/add,/add.html
+https://www.facebook.com/{{ site.facebook }}/,https://www.facebook.com/{{ site.facebook }}/
+https://twitter.com/{{ site.twitter }},https://twitter.com/{{ site.twitter }}
+https://instagram.com/{{ site.instagram }},https://instagram.com/{{ site.instagram }}
+https://www.linkedin.com/in/{{ site.author.linkedin }}/,https://www.linkedin.com/in/{{ site.author.linkedin }}/
+https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }},https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}
+https://plus.google.com/share?url={{ site.url }}{{ page.url }},https://plus.google.com/share?url={{ site.url }}{{ page.url }}
+https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}%20{{ page.description }}&source=LinkedIn,https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}%20{{ page.description }}&source=LinkedIn
+https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }},https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+{{ BASE_PATH }}{{ book.url }},{{ BASE_PATH }}{{ book.url }}.html
+{{ book.descarga }},{{ book.descarga }}.html
+books,books.html
+{{ BASE_PATH }}/about,{{ BASE_PATH }}/about.html
+{{ BASE_PATH }}/{{ target }},{{ BASE_PATH }}/{{ target }}.html
+https://www.addtoany.com/share,https://www.addtoany.com/share
+https://form.jotform.com/211904785426056,https://form.jotform.com/211904785426056
+{{ page.descarga }},{{ page.descarga }}.html
+https://www.addtoany.com/share,https://www.addtoany.com/share
+{{ city.url }},{{ city.url }}.html
+https://www.addtoany.com/share,https://www.addtoany.com/share
+search,search.html
+/index.html,/index.html
+/search,/search.html
+/agregar,/agregar.html
+/about,/about.html
+search,search.html
+/index.html,/index.html
+/search,/search.html
+/agregar,/agregar.html
+/about,/about.html
