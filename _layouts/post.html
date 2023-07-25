@@ -10,7 +10,7 @@ layout: default-blog
           {{ page.title }}
         </h1>
         <div class="podcast-tagline">
-          With {{ page.guest }}{% if page.organization %} from {{ page.organization }}{% endif %}
+          {% if page.guest %}With {{ page.guest }}{% endif %}{% if page.organization %}, from {{ page.organization }}{% endif %}{% if page.author %}By {{ page.author }}{% endif %}
         </div>
       </div> 
     </div>
