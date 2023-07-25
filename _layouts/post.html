@@ -31,7 +31,7 @@ layout: default-blog
       </div>
       
       <div class="ficha-metadata">
-        Aired on <span class="metadata-input">{{ page.date | date_to_string }}</span> // Available on <span class="metadata-input">Youtube</span> and <span class="metadata-input">Spotify</span>.
+        {% if page.guest %}Aired on{% endif %}{% if page.author %}Published on{% endif %} <span class="metadata-input">{{ page.date | date_to_string }}</span>{% if page.guest %} // Available on <span class="metadata-input">Youtube</span> and <span class="metadata-input">Spotify</span>{% endif %}.
       </div>
       
       
