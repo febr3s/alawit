@@ -1,27 +1,23 @@
 title: ALAWiT # Write here the name of your site
-description: Afro-Latin American Writers in Translation # Write here the description of your site
+tagline: Afro Latin American Writers in Translation # Write here the description of your site
 img: logo.png # Substitute the file with a copy of your site's logo on /assets/img/tema
-background: trama-5.jpg # Substitute the file with a copy of your site's pattern on /assets/img/tema
+background: # Substitute the file with a copy of your site's pattern on /assets/img/tema
 image : avatar.png
 email : proyectomorel@gmail.com
 github : 
 twitter : 
 instagram:
+remote_theme: 
+podcast: true
 
-
-template : 
-  name : MOREL
-  site: https://morel.la
-  image : avatar.png
-  email : proyectomorel@gmail.com
-  github : 
-  twitter : 
-  instagram:
+# If you want to build your site in a repo that is not named youruser.github.io (for example youruser.github.io/reponame), uncomment the following line
+BASE_PATH: /morel-theme-generator
 
 # Do not edit bellow unless you are an advanced user
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 permalink: /:categories/:year/:month/:day/:title:output_ext 
 
