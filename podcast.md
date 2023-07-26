@@ -1,6 +1,6 @@
 ---
-title: MOREL
-tagline: News on Mobile Open Resilient Electronic Libraries
+title: Sóngoro cosongo
+tagline: A podcast on Afro-Latin American music and literature
 layout: post-index
 ---
 <ul>
